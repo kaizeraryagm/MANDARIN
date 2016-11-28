@@ -105,7 +105,7 @@ var map_config = {
 		'hover': 'CHILE', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_33':{
-		'hover': 'CHINA: <br> Mandarin Speakers: 1349585838', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'CHINA: <br> Mandarin Speakers: 1.2B', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_34':{
 		'hover': 'COLOMBIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
