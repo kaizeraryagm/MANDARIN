@@ -30,7 +30,7 @@ var map_config = {
 		'hover': 'ARMENIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_8':{
-		'hover': 'AUSTRALIA: <br> Mandarin Speakers: 388268', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'AUSTRALIA:<br><br> Mandarin Speakers: 388,268', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_9':{
 		'hover': 'AUSTRIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
@@ -105,7 +105,7 @@ var map_config = {
 		'hover': 'CHILE', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_33':{
-		'hover': 'CHINA: <br> Mandarin Speakers: 1.2B', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'CHINA: <br><br> Mandarin Speakers: 847.8M', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_34':{
 		'hover': 'COLOMBIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
@@ -222,10 +222,10 @@ var map_config = {
 		'hover': 'ICELAND', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_72':{
-		'hover': 'INDIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'INDIA:<br><br> Mandarin Speakers: 7,500', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_73':{
-		'hover': 'INDONESIA: <br> Mandarin Speakers: 2832510', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'INDONESIA:<br><br> Mandarin Speakers: 2.8M', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_74':{
 		'hover': 'IRAN', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
@@ -303,7 +303,7 @@ var map_config = {
 		'hover': 'MALAWI', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_99':{
-		'hover': 'MALAYSIA: <br> Mandarin Speakers: 6650000', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'MALAYSIA:<br><br> Mandarin Speakers: 6.6M', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_100':{
 		'hover': 'MALDIVES', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
@@ -429,7 +429,7 @@ var map_config = {
 		'hover': 'SIERRA LEONE', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_141':{
-		'hover': 'SINGAPORE: <br> Mandarin Speakers: 5460302', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'SINGAPORE:<br><br> Mandarin Speakers: 1.2M', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_142':{
 		'hover': 'SLOVAKIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
@@ -480,7 +480,7 @@ var map_config = {
 		'hover': 'SÃO TOMÉ AND PRÍNCIPE', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_158':{
-		'hover': 'TAIWAN: <br> Mandarin Speakers: 23299716', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'TAIWAN:<br><br> Mandarin Speakers: 4.3M', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_159':{
 		'hover': 'TAJIKISTAN', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
@@ -489,7 +489,7 @@ var map_config = {
 		'hover': 'TANZANIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_161':{
-		'hover': 'THAILAND: <br> Mandarin Speakers: 23299716', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'THAILAND:<br><br> Mandarin Speakers: 2.3M', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_162':{
 		'hover': 'THE GAMBIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
@@ -522,7 +522,7 @@ var map_config = {
 		'hover': 'UNITED KINGDOM', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_172':{
-		'hover': 'UNITED STATES: <br> Mandarin Speakers: 1487250', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'UNITED STATES:<br><br> Mandarin Speakers: 2.8M', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_173':{
 		'hover': 'URUGUAY', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
