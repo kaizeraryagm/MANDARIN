@@ -360,7 +360,7 @@ var map_config = {
 		'hover': 'NIGER', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_118':{
-		'hover': 'NIGERIA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
+		'hover': 'NIGERIA: <br><br> Mandarin Speakers: 20,000', 'target':'same_window','upColor':'#FE0202','overColor':'#FFEE88','downColor':'#993366','enable':true,
 	},
 	'map_119':{
 		'hover': 'NORTH KOREA', 'target':'same_window','upColor':'#EBECED','overColor':'#FFEE88','downColor':'#993366','enable':true,
